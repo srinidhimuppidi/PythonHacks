@@ -5,7 +5,7 @@ Deploymentname: deployment-2048
 Servicename: service-2048
 
 Ingressname: ingress-2048
-
+#knowing labels
 labels:
   app.kubernetes.io/name: app-2048
  
